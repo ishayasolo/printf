@@ -2,5 +2,5 @@
 
 ## Project 'printf'
 
-A collaborative project from ALX bu Ishaya and Jibola
+A collaborative project from ALX by Ishaya and Jibola
 
